@@ -1,0 +1,7 @@
+pip install - Installs the specified package
+pip list - Lists installed packages
+When we run pip install again, we are told that the package has been already installed.
+pip freeze - Outputs the installed packages. When we run pip freeze > requirements.txt, we see that the installed packages are listed inside this txt file which is located in the desktop.
+pip uninstall - Uninstalls the specified package
+pip show - Displays information about the installed package
+pip search - Searches the database for the given package
